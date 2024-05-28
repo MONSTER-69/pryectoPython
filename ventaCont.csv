@@ -1,0 +1,5 @@
+NOMBRE_EMPLEADO,NOMBRE,PRECIO,FECHA_DE_VENTA,CANTIDAD_VENDIDA,CANTIDAD_ACTUAL,PRECIO_TOTAL,CATEGORIA,REGION
+Marcos,Camiseta,500,25-11-2023,2,5,1000,Camisa Hombre,Baja California
+Patricia,Bolsa,700,26-11-2023,1,3,700,Bolsa de mujer, Baja California
+Erik,Pantalones,500,27-11-2023,2,4,1000,Pantalon Verano,Baja California
+Maria,Bolsa,700,26-11-2023,1,3,700,Bolsa de mujer,Baja Califronia
